@@ -1,1 +1,1 @@
-# microservice_course_backend
+# About: Microservices course with Django Rest Framework and NextJS
